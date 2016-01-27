@@ -1,0 +1,28 @@
+name: "Joe's Design Shack"
+favicon: null
+layout_spectrum: 0.20307118794880807
+typography_spectrum: 0.7844588388688862
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.39087388245388865
+  lightness: 0.5705363610759377
+  saturation: 0.33283807430416346
+  rhythmicContrast: 0.8649538028985262
+purpose: []
